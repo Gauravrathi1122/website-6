@@ -20,7 +20,7 @@
 * Run `gem install bundle` and then `bundle install`
 * Run `grunt build` to build the static site, `grunt` to build and watch for changes (`http://localhost:4000/`)
 
-## Staging
+## Staging...
 
 The `staging` branch is published to <https://appveyor-staging.azurewebsites.net>.
 
