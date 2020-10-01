@@ -4,7 +4,7 @@
 [![dependencies Status](https://david-dm.org/appveyor/website/status.svg)](https://david-dm.org/appveyor/website)
 
 
-## Getting started
+## ....Getting started....
 
 * Install [Node.js](https://nodejs.org/download/)
 * Install grunt: `npm install -g grunt-cli`
